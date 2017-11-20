@@ -1,0 +1,18 @@
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\bin\Debug\DiagnosticInformation.exe.config
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\bin\Debug\DiagnosticInformation.exe
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\bin\Debug\DiagnosticInformation.pdb
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.csprojResolveAssemblyReference.cache
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.csproj.CoreCompileInputs.cache
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.exe
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.pdb
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a675377\source\repos\DiagnosticInformation\DiagnosticInformation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\bin\Debug\DiagnosticInformation.exe.config
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\bin\Debug\DiagnosticInformation.exe
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\bin\Debug\DiagnosticInformation.pdb
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.csprojResolveAssemblyReference.cache
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.csproj.CoreCompileInputs.cache
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.exe
+C:\Users\a673857\Documents\My Received Files\DiagnosticInformation\DiagnosticInformation\DiagnosticInformation\obj\Debug\DiagnosticInformation.pdb
